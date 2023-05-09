@@ -11,4 +11,4 @@ We provide two forms of.py and.exe. (.py) can be downloaded and used on github. 
 
 We have very low requirements for python library versions, most of which are available.
 ## Run
-Just run.py or double-click.exe. Our scripts give very comprehensive hints, or refer to the calculations in our article.
+Just run&nbsp;&nbsp;\*.py or double-click&nbsp;&nbsp;&nbsp;\*.exe. Our scripts give very comprehensive hints, or refer to the calculations in our article.
