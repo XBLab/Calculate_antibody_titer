@@ -53,7 +53,7 @@ while True:
             a_one.append(round(aa0[0][0], 4))
         # print(a[0][0])
 
-    num_one = input("Input the amount added，for example 0.5 or 1.5：\n")
+    num_one = input("Input the amount added，for example 0.5 , 1.5 or other (x10^9)：\n")
     final_a_one = []
     for num_ in a_one:
         if num_ < 0:
